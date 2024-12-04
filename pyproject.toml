@@ -21,6 +21,8 @@ torch = {version = "^2.2.1+cu121", source = "torch_cu121"}
 torchvision = {version = "^0.17.1+cu121", source = "torch_cu121"}
 torchaudio = {version = "^2.2.1+cu121", source = "torch_cu121"}
 cmake = "^3.28.3"
+numpy = "^1.18.2"
+safetensors = "^0.4.5"
 
 
 [[tool.poetry.source]]
